@@ -13,7 +13,7 @@ let model;
 if (process.env.NODE_ENV === "production") {
   model = new ChatGoogleGenerativeAI({
     model: process.env.GEMINI_MODEL || "gemini-3.7-flash",
-    apiKey: process.env.GEMINI_API_KEY || "", // Asegúrate de configurar la variable de entorno GEMINI_API_KEY en producción
+    apiKey: process.env.GEMINI_API_KEY || "", //  configurar la variable de entorno GEMINI_API_KEY en producción
   });
 } else {
   model = new ChatOllama({
@@ -84,7 +84,7 @@ Seguridad e Instrucciones Internas:
 }
 
 module.exports = { generateAIResponse }; */
-  // Asegúrate de que history SOLO contenga los mensajes PASADOS (sin incluir la pregunta actual que acaba de hacer el usuario)
+  // Aseguramos de que history SOLO contenga los mensajes PASADOS (sin incluir la pregunta actual que acaba de hacer el usuario)
   const formattedHistory = history.map((msg) => {
     if (msg.role === "user") {
       return new HumanMessage(msg.content);
