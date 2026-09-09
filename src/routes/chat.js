@@ -10,6 +10,7 @@ router.post("/", async (req, res) => {
     return res.status(400).json({ error: "El mensaje es requerido." });
   }
 
+  // Generar respuesta del modelo
   try {
     const aiReply = await generateAIResponse(message, history);
     res.json({ response: aiReply });
