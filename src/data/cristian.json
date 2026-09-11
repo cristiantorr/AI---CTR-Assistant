@@ -1,119 +1,63 @@
 {
   "informacion_personal": {
-    "primer_nombre": "Cristian",
-    "segundo_nombre": "Alonso",
-    "primer_apellido": "Torres",
-    "segundo_apellido": "Patiño",
     "nombre_completo": "Cristian Alonso Torres Patiño",
+    "nombre_corto": "Cristian Torres",
+    "apodos_conocidos": ["Torres"],
     "titulo_profesional": "Tecnólogo en Análisis y Desarrollo de Sistemas de Información",
-    "especialidades": [
+    "especialidades_principales": [
       "Desarrollador Web & CMS",
-      "WordPress & PHP Specialist",
-      "Full Stack React / Node.js / Astro Developer",
-      "Integraciones de APIs REST/SOAP",
-      "Optimización de Rendimiento & Core Web Vitals"
+      "Especialista en WordPress & PHP",
+      "Desarrollador Full Stack (React, Node.js, Astro)",
+      "Integración de APIs REST y SOAP",
+      "Optimización Web y Core Web Vitals"
     ],
     "ubicacion": "Medellín, Colombia",
-    "email": "ps4cristiantorr@gmail.com",
-    "anios_experiencia": 10,
-    "disponibilidad": "Disponible para trabajar",
-    "redes_y_enlaces": {
+    "contacto": {
+      "email": "ps4cristiantorr@gmail.com",
+      "disponibilidad_laboral": "Disponible inmediatamente"
+    },
+    "enlaces": {
       "linkedin": "https://linkedin.com",
       "github": "https://github.com",
-      "portafolio": "https://portafolio-nine-umber.vercel.app/"
+      "portafolio_web": "https://portafolio-nine-umber.vercel.app/"
     }
   },
-  "sobre_mi": {
-    "resumen_personal": "Me llamo Cristian Torres, aunque algunas personas me llaman 'Torres'. Empecé a conocer el mundo de la programación con lenguajes de marcado HTML, CSS y JavaScript cuando tenía 15 años.",
-    "rasgos_de_personalidad": [
+  "perfil_profesional_y_resumen": {
+    "resumen": "Desarrollador Web & CMS con más de 10 años de experiencia en PHP, WordPress y React. Especializado en aplicaciones web, plugins a medida e integraciones de APIs REST/SOAP.",
+    "inicio_programacion": "Comenzó a los 15 años de forma autodidacta aprendiendo HTML, CSS y JavaScript.",
+    "anios_experiencia_total": 10,
+    "rasgos_personales": [
       "Proactivo",
-      "Autodidacta por naturaleza",
-      "Excelente compañero de equipo",
-      "Organizado y responsable",
-      "Apasionado por crear soluciones digitales innovadoras"
-    ],
-    "experiencia_destacada": "Trabajé 9 años en una empresa de marketing digital (SM Digital) desarrollando sitios web a la medida en WordPress, creación de plugins y manejo de frameworks como Laravel, React y JS. Entre mis colaboraciones destacan desarrollos a la medida para marcas del Grupo Nutresa como Saltín Noel, Imusa, Colcafé, Chocolisto, entre otros."
+      "Autodidacta",
+      "Trabajo en equipo",
+      "Organizado y responsable"
+    ]
   },
-  "perfil_profesional": "Desarrollador Web & CMS con más de 10 años de experiencia en PHP, WordPress y React, especializado en la creación de aplicaciones web, plugins a medida e integraciones de APIs REST escalables. Combino el desarrollo tradicional con el uso estratégico de herramientas de IA para optimizar tiempos y elevar la calidad del software. He participado en proyectos colaborando con equipos multidisciplinarios en todas las etapas del desarrollo de software, desde el análisis y diseño hasta la implementación, despliegue y mantenimiento.",
-  "experiencia_laboral": [
+  "portafolio_proyectos": [
     {
-      "empresa": "Pureblink Inc.",
-      "cargo": "Full Stack Developer Senior",
-      "periodo": "Mayo 2024 - Mayo 2025",
-      "ubicacion": "Remoto",
-      "responsabilidades_y_logros": [
-        "Optimización y Rendimiento: Refactoricé aplicaciones en AWS y corregí cuellos de botella en MySQL/PHP, elevando el rendimiento y la seguridad del sistema hasta un 60%.",
-        "Desarrollo Frontend y APIs: Diseñé e integré interfaces escalables en React conectadas a APIs REST, reduciendo tiempos de respuesta y asegurando alta disponibilidad.",
-        "Implementación SEO: Implementé SEO performance, Search Console y Core Web Vitals, mejorando la visibilidad y el posicionamiento orgánico de los sitios web.",
-        "Integraciones Avanzadas: Conexión con Salesforce CRM, Salesforce Marketing Cloud, configuradores de productos 3D/AR y Sketchfab."
-      ],
-      "tecnologias_utilizadas": [
-        "React",
-        "PHP",
-        "MySQL",
-        "AWS EC2",
-        "AWS S3",
-        "WordPress",
-        "ACF PRO",
-        "APIs REST",
-        "Salesforce"
-      ]
-    },
-    {
-      "empresa": "SM Digital S.A.S",
-      "cargo": "Desarrollador Senior / Semi Senior Web Developer",
-      "periodo": "Octubre 2014 - Noviembre 2024",
-      "ubicacion": "Medellín, Colombia",
-      "responsabilidades_y_logros": [
-        "Desarrollo a Medida: Creación de plugins propios en PHP y arquitecturas modulares con ACF PRO para sitios web a la medida en WordPress, reduciendo el tiempo de carga del sitio en un 20%.",
-        "SEO y Rendimiento Web: Diagnóstico y optimización de parámetros de Core Web Vitals y renderizado, mejorando el posicionamiento orgánico y la conversión de landings.",
-        "Integración de Sistemas: Conexión con servicios de terceros (CRMs y pasarelas de pago) mediante consumo de APIs REST y SOAP, asegurando un flujo de datos continuo.",
-        "Desarrollo para Marcas Grandes: Creación de sitios web y blogs para marcas de Nutresa (Saltín Noel, Imusa, Colcafé, etc.)."
-      ],
-      "tecnologias_utilizadas": [
-        "PHP",
-        "WordPress",
-        "Custom Plugins",
-        "ACF PRO",
-        "React",
-        "APIs REST",
-        "APIs SOAP",
-        "Core Web Vitals",
-        "WooCommerce"
-      ]
-    },
-    {
-      "empresa": "Alcancía Telefónica",
-      "cargo": "Ensamblador de Protoboards",
-      "periodo": "Enero 2011 - Febrero 2013",
-      "ubicacion": "Medellín, Colombia",
-      "responsabilidades_y_logros": [
-        "Ensamble y reparación de componentes electrónicos en protoboards de telefonía para el correcto funcionamiento de teléfonos públicos/alcancía."
-      ],
-      "tecnologias_utilizadas": ["Electrónica Básica", "Protoboards"]
-    }
-  ],
-  "proyectos": [
-    {
-      "nombre": "Losani Homes",
+      "id_proyecto": "PROJ-001",
+      "nombre_proyecto": "Losani Homes",
       "es_destacado": true,
-      "tecnologias": [
+      "tipo": "Plataforma Inmobiliaria",
+      "tecnologias_exclusivas_del_proyecto": [
         "PHP",
         "WordPress",
         "Tailwind CSS",
-        "Salesforce",
+        "Salesforce CRM",
         "ACF PRO",
         "HTML",
         "CSS",
         "JavaScript"
       ],
-      "descripcion": "Desarrollo de plataforma inmobiliaria custom en WordPress utilizando Tailwind CSS y ACF Pro. El proyecto incluyó la arquitectura de un buscador avanzado con filtrado dinámico de proyectos y la integración vía API REST con Salesforce CRM para automatizar el flujo de captura de clientes y leads de la empresa.",
-      "link": "https://www.losanihomes.com/"
+      "descripcion_detallada": "Plataforma inmobiliaria custom en WordPress utilizando Tailwind CSS y ACF Pro. Incluye buscador avanzado con filtrado dinámico e integración API REST con Salesforce CRM.",
+      "enlace_oficial": "https://www.losanihomes.com/"
     },
     {
-      "nombre": "Rejiplas",
+      "id_proyecto": "PROJ-002",
+      "nombre_proyecto": "Rejiplas",
       "es_destacado": true,
-      "tecnologias": [
+      "tipo": "E-Commerce",
+      "tecnologias_exclusivas_del_proyecto": [
         "PHP",
         "WordPress",
         "WooCommerce",
@@ -123,20 +67,29 @@
         "CSS",
         "JavaScript"
       ],
-      "descripcion": "Desarrollo e implementación de la plataforma de comercio electrónico para Rejiplas sobre WordPress y WooCommerce. El proyecto abarcó desde la maquetación UI personalizada hasta la optimización del embudo de ventas, integración de pasarelas de pago locales/internacionales y sincronización de inventario, garantizando un rendimiento ágil y alta usabilidad responsive.",
-      "link": "https://rejiplas.com"
+      "descripcion_detallada": "Plataforma de comercio electrónico con maquetación UI personalizada, optimización del embudo de ventas, pasarelas de pago y sincronización de inventario.",
+      "enlace_oficial": "https://rejiplas.com"
     },
     {
-      "nombre": "Canvas Hill",
+      "id_proyecto": "PROJ-003",
+      "nombre_proyecto": "Canvas Hill",
       "es_destacado": false,
-      "tecnologias": ["PHP", "WordPress", "Lenis", "GSAP"],
-      "descripcion": "Desarrollo e implementación ágil de sitio web completo a partir de una librería de componentes modulares, alineando la dirección de arte UI con los requerimientos funcionales del cliente. El proyecto se desarrolló en WordPress, integrando animaciones avanzadas y transiciones fluidas mediante el uso de las librerías Lenis y GSAP, para ofrecer una experiencia de usuario atractiva y dinámica.",
-      "link": "https://canvashill.ca/"
+      "tipo": "Sitio Web Institucional",
+      "tecnologias_exclusivas_del_proyecto": [
+        "PHP",
+        "WordPress",
+        "Lenis",
+        "GSAP"
+      ],
+      "descripcion_detallada": "Sitio web desarrollado con componentes modulares, con animaciones avanzadas y transiciones fluidas con Lenis y GSAP.",
+      "enlace_oficial": "https://canvashill.ca/"
     },
     {
-      "nombre": "Inmobiliaria Colviva + API",
+      "id_proyecto": "PROJ-004",
+      "nombre_proyecto": "Inmobiliaria Colviva + API",
       "es_destacado": false,
-      "tecnologias": [
+      "tipo": "Plataforma Inmobiliaria",
+      "tecnologias_exclusivas_del_proyecto": [
         "PHP",
         "WordPress",
         "WooCommerce",
@@ -147,26 +100,30 @@
         "CSS",
         "JavaScript"
       ],
-      "descripcion": "Desarrollo web a la medida integrado con la API REST de Softin para la presentación dinámica de proyectos inmobiliarios y la gestión de leads de clientes potenciales. El proyecto se implementó en WordPress, priorizando una arquitectura ligera, maquetación responsive y optimización de velocidad de carga para mejorar la experiencia del usuario.",
-      "link": "https://www.grupocolviva.com/"
+      "descripcion_detallada": "Sitio web integrado con la API REST de Softin para presentación dinámica de proyectos y captura de leads.",
+      "enlace_oficial": "https://www.grupocolviva.com/"
     },
     {
-      "nombre": "Next.js 16 + Strapi 5 + React",
+      "id_proyecto": "PROJ-005",
+      "nombre_proyecto": "Next.js 16 + Strapi 5 + React",
       "es_destacado": false,
-      "tecnologias": [
+      "tipo": "Aplicación Web Fullstack",
+      "tecnologias_exclusivas_del_proyecto": [
         "Next.js 16",
         "Strapi (Headless CMS)",
         "Fetch API / SSR",
         "Node.js",
         "Tailwind CSS"
       ],
-      "descripcion": "Proyecto desarrollado con Next.js 16 y Strapi 5, combinando un frontend moderno y de alto rendimiento con un CMS headless flexible para la gestión de contenido.",
-      "link": null
+      "descripcion_detallada": "Frontend de alto rendimiento en Next.js 16 con CMS Headless Strapi 5 para gestión flexible de contenidos.",
+      "enlace_oficial": null
     },
     {
-      "nombre": "Sitio web Mapper",
+      "id_proyecto": "PROJ-006",
+      "nombre_proyecto": "Sitio web Mapper",
       "es_destacado": false,
-      "tecnologias": [
+      "tipo": "Sitio Corporativo",
+      "tecnologias_exclusivas_del_proyecto": [
         "PHP",
         "WordPress",
         "ACF PRO",
@@ -175,13 +132,15 @@
         "CSS",
         "JavaScript"
       ],
-      "descripcion": "Desarrollo e implementación del sitio web corporativo para Maper en la plataforma Solumóvil. Se construyó una solución basada en WordPress a la medida mediante ACF Pro, priorizando una arquitectura de software ligera, maquetación responsive limpia y optimización de velocidad de carga para maximizar la tasa de conversión e interacciones de los usuarios.",
-      "link": "https://maper.solumovil.com/"
+      "descripcion_detallada": "Sitio corporativo para Maper en Solumóvil hecho con WordPress a la medida y ACF Pro.",
+      "enlace_oficial": "https://maper.solumovil.com/"
     },
     {
-      "nombre": "Sitio web Latin Beer",
+      "id_proyecto": "PROJ-007",
+      "nombre_proyecto": "Sitio web Latin Beer",
       "es_destacado": false,
-      "tecnologias": [
+      "tipo": "Sitio Corporativo",
+      "tecnologias_exclusivas_del_proyecto": [
         "PHP",
         "WordPress",
         "ACF PRO",
@@ -190,47 +149,156 @@
         "CSS",
         "JavaScript"
       ],
-      "descripcion": "Desarrollo e implementación del sitio web corporativo para Latin Beer. Se construyó una solución basada en WordPress a la medida mediante ACF Pro, priorizando una arquitectura de software ligera, maquetación responsive limpia y optimización de velocidad de carga para maximizar la tasa de conversión e interacciones de los usuarios.",
-      "link": "https://latinbeer.au/"
+      "descripcion_detallada": "Sitio web corporativo a la medida con WordPress y ACF Pro enfocado en optimización de rendimiento.",
+      "enlace_oficial": "https://latinbeer.au/"
     },
     {
-      "nombre": "Pokémon Mobile & Pokédex",
+      "id_proyecto": "PROJ-008",
+      "nombre_proyecto": "Pokémon Mobile & Pokédex",
       "es_destacado": false,
-      "tecnologias": ["React", "React Native", "Expo", "Tailwind CSS"],
-      "descripcion": "Aplicaciones móvil y web consumiendo la PokéAPI para búsqueda y exploración detallada de personajes.",
-      "link": null
+      "tipo": "Aplicación Móvil / Web",
+      "tecnologias_exclusivas_del_proyecto": [
+        "React",
+        "React Native",
+        "Expo",
+        "Tailwind CSS"
+      ],
+      "descripcion_detallada": "App móvil y web que consume PokéAPI para la búsqueda y visualización de Pokémon.",
+      "enlace_oficial": null
     },
     {
-      "nombre": "Sitios Web Institucionales y Blogs de Marcas",
+      "id_proyecto": "PROJ-009",
+      "nombre_proyecto": "Sitios Web Institucionales y Blogs de Marcas",
       "es_destacado": false,
-      "tecnologias": ["PHP", "WordPress", "ACF PRO", "Bootstrap"],
-      "descripcion": "Desarrollos personalizados y maquetación a medida para clientes reconocidos como Blog Imusa, Saltín Noel, Latin Beer, Raquel Múnera, Logística Inteligente, Mapper, Easy Logística y Trespalacios.",
-      "link": null
+      "tipo": "Desarrollos Varios",
+      "tecnologias_exclusivas_del_proyecto": [
+        "PHP",
+        "WordPress",
+        "ACF PRO",
+        "Bootstrap"
+      ],
+      "descripcion_detallada": "Desarrollos personalizados para clientes como Blog Imusa, Saltín Noel, Latin Beer, Raquel Múnera, Logística Inteligente, Mapper, Easy Logística y Trespalacios.",
+      "enlace_oficial": null
     }
   ],
-  "educacion": [
+  "historial_experiencia_laboral": [
+    {
+      "empresa": "Pureblink Inc.",
+      "puesto": "Full Stack Developer Senior",
+      "periodo": "Mayo 2024 - Mayo 2025",
+      "modalidad": "Remoto",
+      "herramientas_usadas_en_este_empleo": [
+        "React",
+        "PHP",
+        "MySQL",
+        "AWS EC2",
+        "AWS S3",
+        "WordPress",
+        "ACF PRO",
+        "APIs REST",
+        "Salesforce"
+      ],
+      "logros_clave": [
+        "Refactorización en AWS y optimización MySQL/PHP aumentando el rendimiento en un 60%.",
+        "Integración de interfaces en React con APIs REST.",
+        "Implementación de Core Web Vitals y SEO Performance.",
+        "Integraciones con Salesforce CRM y visores 3D/AR."
+      ]
+    },
+    {
+      "empresa": "SM Digital S.A.S",
+      "puesto": "Desarrollador Senior / Semi Senior Web Developer",
+      "periodo": "Octubre 2014 - Noviembre 2024",
+      "modalidad": "Medellín, Colombia",
+      "herramientas_usadas_en_este_empleo": [
+        "PHP",
+        "WordPress",
+        "Custom Plugins",
+        "ACF PRO",
+        "React",
+        "APIs REST",
+        "APIs SOAP",
+        "Core Web Vitals",
+        "WooCommerce"
+      ],
+      "logros_clave": [
+        "Desarrollo de plugins PHP a la medida y arquitecturas con ACF PRO.",
+        "Optimización de tiempos de carga en un 20%.",
+        "Desarrollo de portales para marcas de Grupo Nutresa (Saltín Noel, Imusa, Colcafé)."
+      ]
+    },
+    {
+      "empresa": "Alcancía Telefónica",
+      "puesto": "Ensamblador de Protoboards",
+      "periodo": "Enero 2011 - Febrero 2013",
+      "modalidad": "Medellín, Colombia",
+      "herramientas_usadas_en_este_empleo": [
+        "Electrónica Básica",
+        "Protoboards"
+      ],
+      "logros_clave": [
+        "Ensamble y reparación de componentes electrónicos para telefonía pública."
+      ]
+    }
+  ],
+  "stack_tecnico_global_y_habilidades": {
+    "frontend": [
+      "HTML5",
+      "CSS3",
+      "JavaScript (ES6+)",
+      "TypeScript",
+      "React.js",
+      "Astro.js",
+      "Vue.js",
+      "Tailwind CSS",
+      "Bootstrap"
+    ],
+    "backend": ["PHP", "Laravel", "Node.js", "Express.js", "Python"],
+    "cms_y_wordpress": [
+      "WordPress",
+      "Custom Themes",
+      "Custom Plugins",
+      "WooCommerce",
+      "ACF PRO",
+      "Elementor",
+      "Gutenberg",
+      "WP REST API",
+      "Strapi"
+    ],
+    "bases_de_datos": ["MySQL", "MariaDB", "MongoDB"],
+    "cloud_y_devops": ["AWS EC2", "AWS S3", "Vercel"],
+    "herramientas_desarrollo": [
+      "Git",
+      "GitHub",
+      "Bitbucket",
+      "WP-CLI",
+      "Docker",
+      "Vite"
+    ]
+  },
+  "educacion_formal": [
     {
       "institucion": "SENA - Servicio Nacional de Aprendizaje",
-      "titulo": "Tecnólogo en Análisis y Desarrollo de Sistemas de Información",
+      "titulo_obtenido": "Tecnólogo en Análisis y Desarrollo de Sistemas de Información",
       "periodo": "2012 - 2014",
       "estado": "Graduado"
     },
     {
-      "institucion": "ITSE (Instituto Tecnológico de Síntesis Electrónica)",
-      "titulo": "Electrónica General",
+      "institucion": "ITSE",
+      "titulo_obtenido": "Electrónica General",
       "periodo": "2011",
       "estado": "Completado"
     },
     {
       "institucion": "Liceo El Pedregal",
-      "titulo": "Bachiller Académico",
+      "titulo_obtenido": "Bachiller Académico",
       "periodo": "2007",
       "estado": "Graduado"
     }
   ],
-  "cursos_y_certificaciones": [
+  "certificaciones_y_cursos": [
     {
-      "categoria": "Inteligencia Artificial y Nuevas Tecnologías",
+      "categoria": "Inteligencia Artificial",
       "cursos": [
         { "nombre": "Claude 101", "emisor": "Anthropic" },
         {
@@ -240,7 +308,7 @@
       ]
     },
     {
-      "categoria": "Desarrollo Web y Frameworks",
+      "categoria": "Desarrollo Web",
       "cursos": [
         { "nombre": "Curso Astro Dev Book", "emisor": "Midudev" },
         {
@@ -271,55 +339,6 @@
           "emisor": "SoloLearn"
         }
       ]
-    }
-  ],
-  "habilidades_tecnicas": {
-    "frontend": [
-      "HTML5",
-      "CSS3",
-      "JavaScript (ES6+)",
-      "TypeScript",
-      "React.js",
-      "Astro.js",
-      "Vue.js",
-      "Tailwind CSS",
-      "Bootstrap"
-    ],
-    "backend": ["PHP", "Laravel", "Node.js", "Express.js", "Python"],
-    "cms_y_wordpress": [
-      "WordPress",
-      "Custom Themes",
-      "Custom Plugins",
-      "WooCommerce",
-      "ACF PRO",
-      "Elementor",
-      "Gutenberg",
-      "WP REST API",
-      "Strapi"
-    ],
-    "bases_de_datos": ["MySQL", "MariaDB", "MongoDB"],
-    "cloud_y_devops": ["AWS EC2", "AWS S3", "Vercel"],
-    "herramientas_y_entorno": [
-      "Git",
-      "GitHub",
-      "Bitbucket",
-      "WP-CLI",
-      "Docker",
-      "Vite"
-    ]
-  },
-  "preguntas_frecuentes_para_ia": [
-    {
-      "pregunta": "¿Qué proyectos importantes ha construido Cristian?",
-      "respuesta": "Ha participado en proyectos destacados como la plataforma inmobiliaria Losani Homes y el e-commerce Rejiplas."
-    },
-    {
-      "pregunta": "¿Desde qué edad programa Cristian?",
-      "respuesta": "Cristian comenzó a programar a los 15 años aprendiendo de forma autodidacta HTML, CSS y JavaScript."
-    },
-    {
-      "pregunta": "¿Cómo describirías la personalidad de Cristian como profesional?",
-      "respuesta": "Es una persona proactiva, muy organizada, responsable y excelente compañero de equipo, apasionado por aprender nuevas tecnologías constantemente."
     }
   ]
 }
